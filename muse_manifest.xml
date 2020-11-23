@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.I-AM-INFINITY.com" resolutions="1x" timestamp="1606125357084">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.I-AM-INFINITY.com" resolutions="1x" timestamp="1606126756993">
   <folder name="css">
     <file name="site_global.css" crc="3872606453"/>
     <file name="master_a-master.css" crc="306865544" ref="index:interface:story:info:software:design"/>
@@ -99,6 +99,6 @@
   <file name="design.html" crc="154757042" seo="true" mt="1606121804733" redirect="true"/>
   <file name="info.html" crc="335355962" seo="true" mt="1606121804729" redirect="true"/>
   <file name="interface.html" crc="243729272" seo="true" mt="1606124355941" redirect="true"/>
-  <file name="software.html" crc="223023260" seo="true" mt="1606125341838" redirect="true"/>
+  <file name="software.html" crc="356009049" seo="true" mt="1606126749566" redirect="true"/>
   <file name="story.html" crc="4274229903" seo="true" mt="1606121804729" redirect="true"/>
 </manifest>
