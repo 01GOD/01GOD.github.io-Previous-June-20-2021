@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.I-AM-INFINITY.com" resolutions="1x" timestamp="1606126756993">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.I-AM-INFINITY.com" resolutions="1x" timestamp="1606130937142">
   <folder name="css">
     <file name="site_global.css" crc="3872606453"/>
-    <file name="master_a-master.css" crc="306865544" ref="index:interface:story:info:software:design"/>
-    <file name="index.css" crc="197950266" ref="index"/>
-    <file name="interface.css" crc="3955898661" ref="interface"/>
-    <file name="story.css" crc="29524750" ref="story"/>
-    <file name="info.css" crc="4151809433" ref="info"/>
-    <file name="software.css" crc="3817029002" ref="software"/>
-    <file name="design.css" crc="314003450" ref="design"/>
+    <file name="master_a-master.css" crc="476300667" ref="index:interface:story:software:design:contact"/>
+    <file name="index.css" crc="501590445" ref="index"/>
+    <file name="interface.css" crc="22202102" ref="interface"/>
+    <file name="story.css" crc="515568948" ref="story"/>
+    <file name="software.css" crc="4000382470" ref="software"/>
+    <file name="design.css" crc="258268308" ref="design"/>
+    <file name="contact.css" crc="4235010830" ref="contact"/>
   </folder>
   <folder name="assets">
     <folder name="iphone-portfolioupdate">
@@ -52,15 +52,15 @@
     </folder>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:design:info:interface:software:story"/>
-    <file name="museutils.js" crc="163421577" ref="index:design:info:interface:software:story"/>
-    <file name="whatinput.js" crc="86476730" ref="index:design:info:interface:software:story"/>
-    <file name="museconfig.js" crc="36584860" ref="index:design:info:interface:software:story"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index:design:info:interface:software:story"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:design:interface:software:story:contact"/>
+    <file name="museutils.js" crc="163421577" ref="index:design:interface:software:story:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:design:interface:software:story:contact"/>
+    <file name="museconfig.js" crc="36584860" ref="index:design:interface:software:story:contact"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:design:interface:software:story:contact"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:design:info:interface:software:story"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:design:info:interface:software:story"/>
-    <file name="require.js" crc="244322403" ref="index:design:info:interface:software:story"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:design:interface:software:story:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:design:interface:software:story:contact"/>
+    <file name="require.js" crc="244322403" ref="index:design:interface:software:story:contact"/>
     <file name="webpro.js" crc="3848665353" ref="design"/>
     <file name="musewpslideshow.js" crc="4041717617" ref="design"/>
     <file name="jquery.museoverlay.js" crc="36492500" ref="design"/>
@@ -93,12 +93,12 @@
     <file name="waveform01 spacebass01 with white midi module60x45.jpg" crc="4332536" seo="true" ref="design"/>
     <file name="u610-4.png" crc="4059671129" ref="design"/>
     <file name="u607-4.png" crc="87649374" ref="design"/>
-    <file name="omni-infinity-logo.jpg" crc="184221259" seo="true" ref="design:info:story"/>
+    <file name="omni-infinity-logo.jpg" crc="184221259" seo="true" ref="design:contact"/>
   </folder>
-  <file name="index.html" crc="122299837" seo="true" mt="1606123621752" redirect="true"/>
-  <file name="design.html" crc="154757042" seo="true" mt="1606121804733" redirect="true"/>
-  <file name="info.html" crc="335355962" seo="true" mt="1606121804729" redirect="true"/>
-  <file name="interface.html" crc="243729272" seo="true" mt="1606124355941" redirect="true"/>
-  <file name="software.html" crc="356009049" seo="true" mt="1606126749566" redirect="true"/>
-  <file name="story.html" crc="4274229903" seo="true" mt="1606121804729" redirect="true"/>
+  <file name="index.html" crc="42141153" seo="true" mt="1606129016379" redirect="true"/>
+  <file name="design.html" crc="4224953237" seo="true" mt="1606130797081" redirect="true"/>
+  <file name="interface.html" crc="523421529" seo="true" mt="1606129016379" redirect="true"/>
+  <file name="software.html" crc="300823547" seo="true" mt="1606129656704" redirect="true"/>
+  <file name="story.html" crc="3934942699" seo="true" mt="1606130501520" redirect="true"/>
+  <file name="contact.html" crc="391714591" seo="true" mt="1606129136965" redirect="true"/>
 </manifest>

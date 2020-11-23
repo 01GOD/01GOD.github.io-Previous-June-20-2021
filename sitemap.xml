@@ -7,6 +7,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.I-AM-INFINITY.com/contact.html</loc>
+    <lastmod>2020-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.I-AM-INFINITY.com/story.html</loc>
     <lastmod>2020-11-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -20,12 +26,6 @@
   </url>
   <url>
     <loc>http://www.I-AM-INFINITY.com/interface.html</loc>
-    <lastmod>2020-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.I-AM-INFINITY.com/info.html</loc>
     <lastmod>2020-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
