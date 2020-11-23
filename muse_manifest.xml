@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.I-AM-INFINITY.com" resolutions="1x" timestamp="1606133255773">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.I-AM-INFINITY.com" resolutions="1x" timestamp="1606133405703">
   <folder name="css">
     <file name="site_global.css" crc="3872606453"/>
     <file name="master_a-master.css" crc="476300667" ref="index:interface:story:software:design:contact"/>
     <file name="index.css" crc="475479036" ref="index"/>
     <file name="interface.css" crc="3781141881" ref="interface"/>
     <file name="story.css" crc="4093057021" ref="story"/>
-    <file name="software.css" crc="352556130" ref="software"/>
+    <file name="software.css" crc="3889008777" ref="software"/>
     <file name="design.css" crc="171898799" ref="design"/>
     <file name="contact.css" crc="438425514" ref="contact"/>
   </folder>
@@ -68,7 +68,7 @@
   </folder>
   <folder name="images">
     <file name="1 photo.jpg" crc="4255792616" seo="true" ref="index"/>
-    <file name="earth_from_space-1513525.jpg" crc="4035408982" ref="index"/>
+    <file name="earth_from_space-1513525.jpg" crc="4035408982" ref="index:software"/>
     <file name="neo render good38.jpg" crc="4253326346" seo="true" ref="design"/>
     <file name="blank.gif" crc="4208392903" ref="design"/>
     <file name="neo render good10.jpg" crc="332663088" seo="true" ref="design"/>
@@ -94,12 +94,12 @@
     <file name="u610-4.png" crc="4059671129" ref="design"/>
     <file name="u607-4.png" crc="87649374" ref="design"/>
     <file name="omni-infinity-logo.jpg" crc="184221259" seo="true" ref="design:contact"/>
-    <file name="earth_from_space-15135252.jpg" crc="4035408982" ref="design:software:interface:story:contact"/>
+    <file name="earth_from_space-15135252.jpg" crc="4035408982" ref="design:interface:story:contact"/>
   </folder>
   <file name="index.html" crc="450742343" seo="true" mt="1606132935649" redirect="true"/>
   <file name="design.html" crc="15194963" seo="true" mt="1606132218483" redirect="true"/>
   <file name="interface.html" crc="4107572589" seo="true" mt="1606132218483" redirect="true"/>
-  <file name="software.html" crc="4179440671" seo="true" mt="1606132218483" redirect="true"/>
+  <file name="software.html" crc="259059730" seo="true" mt="1606133390758" redirect="true"/>
   <file name="story.html" crc="4228450712" seo="true" mt="1606132218483" redirect="true"/>
   <file name="contact.html" crc="4188891266" seo="true" mt="1606132410254" redirect="true"/>
 </manifest>
